@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?>
+<options:CycleExplorerData xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:options="options.xmi">
+  <options interactive="false" level="-1" showScope="InDiagram" properties="ModelFrozen=true;wireOptions=4;Product=eDepend;ComputedContent=true;dependencyFilter=Standard::Derive,Soyatec::Implement,Standard::Instantiate,Standard::Create,Standard::Call,Standard::Send,Soyatec::Access,Soyatec::Import,;displayOptions=1"/>
+  <cycleSets>
+    <groups name="Cycle-1  (2 elements)" size="2">
+      <ids>com.ob.Obrowser/Webdata-Standard::Derive->com.ob.Obrowser/AddLink</ids>
+      <ids>com.ob.Obrowser/AddLink-Standard::Call->com.ob.Obrowser/Webdata</ids>
+      <ids>com.ob.Obrowser/AddLink-Soyatec::Import->com.ob.Obrowser/Webdata</ids>
+      <ids>com.ob.Obrowser/AddLink-Standard::Instantiate->com.ob.Obrowser/Webdata</ids>
+    </groups>
+  </cycleSets>
+</options:CycleExplorerData>

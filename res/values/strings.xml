@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ObrowserActivity!</string>
+    <string name="app_name">Obrowser</string>
+    <string name="str1">Press menu to add links</string>
+    <string name="str2">Title</string>
+    <string name="str3">Submit</string>
+    <string name="str4">Link</string>
+    <string name="str5">Options</string>
+    <string name="str6">Download images</string>
+    <string name="str7">Automatic update</string>
+    <string name="str8">Depth level</string>
+    <string name="str9">Select depth level</string>
+    <string name="strdel">Delete</string>
+        <string-array name="dept_array">
+            <item>0</item>
+            <item>1</item>
+            <item>2</item>
+            <item>3</item>
+            <item>4</item>
+            <item>5</item>
+         </string-array>
+    <string name="str10">Maximum links per page</string>
+    <string name="str11">select max links</string>
+    	<string-array name="max_links">
+    	    <item>5</item>
+    	    <item>10</item>
+    	    <item>20</item>
+    	    <item>30</item>
+    	    <item>40</item>
+    	    <item>50</item>
+    	    <item>60</item>
+    	    <item>70</item>
+    	</string-array>
+    	    <string name="titlehint">type the title&#8230;</string>
+    	    <string name="urlhint">type the URL&#8230;</string>    
+</resources>
